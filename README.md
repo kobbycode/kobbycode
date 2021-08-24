@@ -2,7 +2,7 @@
 - 👀 I’m interested in building projects
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on building real world project
-- 📫 How to reach me https://www.facebook.com/ingofori.debrah/
+- 📫 How to reach me https://twitter.com/Kobbycode1
 
 <!---
 kobbycode/kobbycode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
